@@ -25,7 +25,6 @@ function UserProfile() {
       </header>
       <main>
         <h1>user profile</h1>
-        {/* <h1>{user.name}</h1> */}
       </main>
     </>
   );
